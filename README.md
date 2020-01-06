@@ -469,7 +469,7 @@ INSERT INTO `datatables_demo`
 <img src="./CreateEditor.jpg" alt="DataTable Editor Create">
 <hr>
 <h4>Examples - Edit</h4>
-<img src="./EditEditor.jpg" alt="DataTable Editor Edit">
+<img src="./editEditor.jpg" alt="DataTable Editor Edit">
 <hr>
 <h4>Examples - Delete</h4>
 <img src="./Delete.jpg" alt="DataTable Editor Delete">
